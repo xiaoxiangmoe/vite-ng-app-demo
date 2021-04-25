@@ -1,7 +1,5 @@
-import type { UserConfig } from 'vite'
- 
-const config:UserConfig = {
-  
-}
+import type { UserConfig } from "vite";
 
-export default config
+const config: UserConfig = {};
+
+export default config;
