@@ -22,7 +22,7 @@
     "@angular/compiler-cli": "^10.0.11",
     "concurrently": "^5.3.0",
     "typescript": "~3.9.7",
-    "vite": "^1.0.0-rc.1"
+    "vite": "^2.1.5"
   },
   "prettier": {
     "arrowParens": "avoid",
